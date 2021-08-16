@@ -1,5 +1,5 @@
 #  Portifólio Rápido com Bulma
-*Objetivo do projeto:* Testar os conhecimentos de Bulma CSS e desenvolver um portifólio rápido do zero em poucos minutos.
+*Objetivo do projeto:* Testar os conhecimentos de Bulma CSS e desenvolver um portifólio rápido do zero em poucos minutos usando apenas as classes do Bulma, sem nenhuma estilização externa, nenhum JavaScript adicional.
 
 Esse é um desafio rápido do curso de Fullstack com JavaScript.
 
